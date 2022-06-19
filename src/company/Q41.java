@@ -11,7 +11,7 @@ import java.util.Scanner;
 //        c. A password must not be shorter than 8 characters but must not exceed 256.
 //        d. There cannot be any types of parentheses or whitespaces in a valid username or password.
 //        e. A password cannot contain or be the same as its associated username
-public class jj6 {
+public class Q41 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 //        System.out.println("Enter the Username:");

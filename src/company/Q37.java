@@ -8,7 +8,7 @@ import java.util.Scanner;
 // In all the registration numbers listed here, the sum of the odd digits is equal to the sum of
 // the even digits in the number. He termed the numbers that satisfy this property as Probable Topper Numbers.
 // Write a program to find whether a given number is a probable topper number or not.
-public class jj2 {
+public class Q37 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();

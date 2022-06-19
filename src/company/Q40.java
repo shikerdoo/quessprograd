@@ -6,7 +6,7 @@ import java.util.Scanner;
 //You will be given two integers x and y as input, you have to compute x/y .
 //  If x and y are not 32 bit signed integers or if
 //  y is zero, exception will occur and you have to report it.
-public class jj5 {
+public class Q40 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
 

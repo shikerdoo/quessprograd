@@ -20,8 +20,6 @@ package company;
 //Req 4:Write a piece of code that creates an instance of the class Movie with the title “Casino Royale”,
 // the studio “Eon Productions”, and the rating “PG-13”.
 
-import java.util.ArrayList;
-
 class Movie{
     private String title;
     private String rating;
@@ -49,7 +47,7 @@ class Movie{
         return output;
     }
 }
-public class jj4 {
+public class Q39 {
     public static void main(String[] args) {
         Movie m=new Movie("Casino Royale","Eon Productions","PG-13");
     }

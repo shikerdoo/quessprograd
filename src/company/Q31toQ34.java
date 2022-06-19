@@ -1,13 +1,11 @@
 package company;
 
-import com.sun.source.doctree.SeeTree;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class jj {
+public class Q31toQ34 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();

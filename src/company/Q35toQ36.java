@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 //35. JAVA program to find transpose of a given matrix. 36. Write a Java program to find nth prime number.
-public class jj1 {
+public class Q35toQ36 {
     static ArrayList<Integer> primes =
             new ArrayList<Integer>();
     static int MAX_SIZE = 1000005;

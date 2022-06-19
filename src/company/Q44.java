@@ -7,7 +7,7 @@ import java.util.Scanner;
 //        You need to return the highest scoring word as a string.
 //        If two words score the same, return the word that appears earliest in the original string.
 //        Provided : All letters will be lowercase and all inputs will be valid.
-public class jj9 {
+public class Q44 {
     public static void main(String[] args) {
         String s;
         Scanner sc=new Scanner(System.in);

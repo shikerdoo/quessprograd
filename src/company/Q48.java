@@ -27,5 +27,5 @@ package company;
 //        water[i] is either 'H' or 'O'.
 //        There will be exactly 2 * n 'H' in water.
 //        There will be exactly n 'O' in water.
-public class jj13 {
+public class Q48 {
 }

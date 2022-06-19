@@ -13,7 +13,7 @@ import java.util.Scanner;
 //        ["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
 //        ["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
 //For 4 or more names, the number in "and 2 others" simply increases.
-public class jj8 {
+public class Q43 {
     public static void main(String[] args) {
 
         System.out.println("Enter the number of elements you wants to enter");

@@ -9,7 +9,7 @@ import java.util.Scanner;
 // square or not. The first integer corresponds to the number of rows/columns in the matrix.
 // The remaining integers correspond to the elements in the matrix. The elements are read in row-wise order
 // , first row first, then second row and so on. Print "yes" if it is a magic square. Print "no" if it is not a magic square.
-public class jj3 {
+public class Q38 {
     public static void main(String[] args) {
      Scanner sc=new Scanner(System.in);
         System.out.println("Enter  a number");

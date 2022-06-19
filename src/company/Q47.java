@@ -40,7 +40,7 @@ class ZeroEvenOdd{
 
     }
 }
-public class jj12 {
+public class Q47 {
     public static void main(String[] args) {
 
     }
